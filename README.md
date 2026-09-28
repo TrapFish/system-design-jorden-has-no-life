@@ -850,3 +850,4 @@ Write skew → conflict through a business rule involving related data.
 ==========================================================================================================================================
 
 
+# system-design-jorden-has-no-life
